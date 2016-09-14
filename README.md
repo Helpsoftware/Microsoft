@@ -18,6 +18,6 @@ Windows Server Technical Preview Build 9841/9860/9926 所有版本
 Windows Server 2008/2008R2 Standard/Datacenter/Enterprise 标准版/数据中心版/企业版
 Windows Server 2012/2012R2 Standard/Datacenter/Enterprise 标准版/数据中心版/企业版
 使用注意：
-#Win7系统需安装.NET Framework 4.5+，Win8以上系统则无需！
+-Win7系统需安装.NET Framework 4.5+，Win8以上系统则无需！
 -如用了杀毒软件，需把  KMSAuto Net.exe 加入白名单或排除项！
 -如不能正常安装KMS服务，需反复点移除KMS服务并重启2到3次！
