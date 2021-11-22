@@ -13,7 +13,7 @@ https://otp.landian.vip/zh-cn/
 
 
 
-3.自己在用的一款offce和windows激活工具：全能激活神器 HEU KMS Activator https://www.wgbqr.com/hka.html
+3.自己在用的一款offce和windows激活工具：全能激活神器 HEU KMS Activator https://github.com/Helpsoftware/Microsoft/blob/master/HEU_KMS_Activator_v24.5.0.exe
 
 
 
